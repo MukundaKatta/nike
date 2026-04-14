@@ -1,6 +1,6 @@
 # nike — Strategy Backtesting Engine. Strategy backtesting engine
 
-Strategy Backtesting Engine. Strategy backtesting engine. nike gives you a focused, inspectable implementation of that idea.
+Strategy Backtesting Engine. Strategy backtesting engine.
 
 ## Why nike
 
